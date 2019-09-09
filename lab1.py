@@ -1,9 +1,9 @@
-*********Lab 1 : 26th aug,2019
+
          
-***********Program***********   
+        Program
    
    
-print ("Hi, I am Varsha Roxan")
+print ("Hi, I am venkatesh")
 
 a = int(input("Enter the value of a:"))
 b = int(input("Enter the value of b:"))
@@ -61,8 +61,7 @@ else:
        iteration += 1
 
 
-         
-***********Output***********
+         Output
 
 
 Python 3.7.3 (default, Apr  3 2019, 05:39:12) 
@@ -70,7 +69,7 @@ Python 3.7.3 (default, Apr  3 2019, 05:39:12)
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 ================== RESTART: /home/cs2016b117/varsha/test.py ==================
-Hi, I am Varsha Roxan
+Hi, I am venkatesh
 Enter the value of a:10
 Enter the value of b:20
 Addition of 10 and 20 is 30
