@@ -1,6 +1,5 @@
  
 file = open('text.txt','w') 
-file.write("This is the write command and the command is written by venkatesh\n") 
 file.write("It allows us to write in a particular file")
 file.close()
 from collections import Counter
